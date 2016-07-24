@@ -12,7 +12,6 @@ Preparation :
 2. Buatkan database dengan nama EJM pada MS.SQL Server
 3. Jalankan EJM_ScriptDb.sql pada sql server untuk membuat table yang akan digunakan oleh system.
 4. Run system
-5. 
 
 ------------------------------------
 
