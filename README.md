@@ -15,7 +15,8 @@ Preparation :
 
 ------------------------------------
 
-Source code develop by : Boy Chandra; 
-Enhance by : Alex
+Requirement :
+
+Crystal Report for visual studio 2013
  
 
