@@ -1,0 +1,624 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+EJM
+</name>
+</assembly>
+<members>
+<member name="P:EJM.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:EJM.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:EJM.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:EJM.dsTrans.dtBarangDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EJM.dsTrans.dtSupplierDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EJM.dsTrans.dtCustomerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EJM.dsTrans.dtPesananPembelianDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EJM.dsTrans.dtUserDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EJM.dsTrans.dtRoleDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EJM.dsTrans.dtDataBarangReturDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EJM.dsTrans.dtFindPembelianHutangDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EJM.dsTrans.dtFindSupplierHutangDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EJM.dsTrans.dtFindStokBarangDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EJM.dsTrans.dtBarangJualDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EJM.dsTrans.dtDetailBarangTerimaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EJM.dsTrans.dtFindPesananAllDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EJM.dsTrans.dtFindBarangPesananDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EJM.dsTrans.dtFindBarangReturDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EJM.dsTrans.dtFindReturAllDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EJM.dsTrans.dtFindPenerimaanAllDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EJM.dsTrans.dtFindBarangPenerimaanDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EJM.dsTrans.dtFindSupplierPembelianDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EJM.dsTrans.dtFindTagihanPesananDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EJM.dsTrans.dtItemPembelianDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EJM.dsTrans.dtItemPelunasanDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EJM.dsTrans.dtPreviewStokDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EJM.dsTrans.dtInisialisasiStokAwalDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EJM.dsTrans.dtStokSekarangDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EJM.dsTrans.dtDataPenyesuaianDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EJM.dsTrans.dtBarangRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EJM.dsTrans.dtSupplierRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EJM.dsTrans.dtCustomerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EJM.dsTrans.dtPesananPembelianRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EJM.dsTrans.dtUserRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EJM.dsTrans.dtRoleRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EJM.dsTrans.dtDataBarangReturRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EJM.dsTrans.dtFindPembelianHutangRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EJM.dsTrans.dtFindSupplierHutangRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EJM.dsTrans.dtFindStokBarangRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EJM.dsTrans.dtBarangJualRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EJM.dsTrans.dtDetailBarangTerimaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EJM.dsTrans.dtFindPesananAllRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EJM.dsTrans.dtFindBarangPesananRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EJM.dsTrans.dtFindBarangReturRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EJM.dsTrans.dtFindReturAllRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EJM.dsTrans.dtFindPenerimaanAllRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EJM.dsTrans.dtFindBarangPenerimaanRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EJM.dsTrans.dtFindSupplierPembelianRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EJM.dsTrans.dtFindTagihanPesananRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EJM.dsTrans.dtItemPembelianRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EJM.dsTrans.dtItemPelunasanRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EJM.dsTrans.dtPreviewStokRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EJM.dsTrans.dtInisialisasiStokAwalRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EJM.dsTrans.dtStokSekarangRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EJM.dsTrans.dtDataPenyesuaianRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EJM.dsTrans.dtBarangRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EJM.dsTrans.dtSupplierRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EJM.dsTrans.dtCustomerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EJM.dsTrans.dtPesananPembelianRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EJM.dsTrans.dtUserRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EJM.dsTrans.dtRoleRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EJM.dsTrans.dtDataBarangReturRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EJM.dsTrans.dtFindPembelianHutangRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EJM.dsTrans.dtFindSupplierHutangRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EJM.dsTrans.dtFindStokBarangRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EJM.dsTrans.dtBarangJualRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EJM.dsTrans.dtDetailBarangTerimaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EJM.dsTrans.dtFindPesananAllRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EJM.dsTrans.dtFindBarangPesananRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EJM.dsTrans.dtFindBarangReturRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EJM.dsTrans.dtFindReturAllRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EJM.dsTrans.dtFindPenerimaanAllRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EJM.dsTrans.dtFindBarangPenerimaanRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EJM.dsTrans.dtFindSupplierPembelianRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EJM.dsTrans.dtFindTagihanPesananRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EJM.dsTrans.dtItemPembelianRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EJM.dsTrans.dtItemPelunasanRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EJM.dsTrans.dtPreviewStokRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EJM.dsTrans.dtInisialisasiStokAwalRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EJM.dsTrans.dtStokSekarangRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EJM.dsTrans.dtDataPenyesuaianRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EJM.dsTrans">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:EJM.dsTransTableAdapters.daBarang">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EJM.dsTransTableAdapters.daSupplier">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EJM.dsTransTableAdapters.daCustomer">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EJM.dsTransTableAdapters.daPesananPembelian">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EJM.dsTransTableAdapters.daUser">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EJM.dsTransTableAdapters.daRole">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EJM.dsTransTableAdapters.daDataBarangRetur">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EJM.dsTransTableAdapters.daFindPembelianHutang">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EJM.dsTransTableAdapters.daFindSupplierHutang">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EJM.dsTransTableAdapters.daFindStokBarang">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EJM.dsTransTableAdapters.daBarangJual">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EJM.dsTransTableAdapters.daDetailBarangTerima">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EJM.dsTransTableAdapters.daFindPesananAll">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EJM.dsTransTableAdapters.daFindBarangPesanan">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EJM.dsTransTableAdapters.daFindBarangRetur">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EJM.dsTransTableAdapters.daFindReturAll">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EJM.dsTransTableAdapters.daFindPenerimaanAll">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EJM.dsTransTableAdapters.daFindBarangPenerimaan">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EJM.dsTransTableAdapters.daFindSupplierPembelian">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EJM.dsTransTableAdapters.daFindTagihanPesanan">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EJM.dsTransTableAdapters.daItemPembelian">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EJM.dsTransTableAdapters.daItemPelunasan">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EJM.dsTransTableAdapters.daPreviewStok">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EJM.dsTransTableAdapters.daInisialisasiStokAwal">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EJM.dsTransTableAdapters.daStokSekarang">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EJM.dsTransTableAdapters.daDataPenyesuaian">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:EJM.dsTransTableAdapters.TableAdapterManager.UpdateUpdatedRows(EJM.dsTrans,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:EJM.dsTransTableAdapters.TableAdapterManager.UpdateInsertedRows(EJM.dsTrans,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:EJM.dsTransTableAdapters.TableAdapterManager.UpdateDeletedRows(EJM.dsTrans,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:EJM.dsTransTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:EJM.dsTransTableAdapters.TableAdapterManager.UpdateAll(EJM.dsTrans)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:EJM.dsTransTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:EJM.dsTransTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:EJM.dsTransTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:EJM.dsLaporan.dtFakt_PenjualanDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EJM.dsLaporan.dtLap_PenjualanDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EJM.dsLaporan.dtLap_PenjualanCustDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EJM.dsLaporan.dtLap_PenjualanProdDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EJM.dsLaporan.dtLap_BarangDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EJM.dsLaporan.dtLap_CustomerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EJM.dsLaporan.dtLap_SupplierDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EJM.dsLaporan.dtLap_PelunasanHutangDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EJM.dsLaporan.dtLap_ReturPembelianDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EJM.dsLaporan.dtLap_PembelianDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EJM.dsLaporan.dtLap_PembelianProdDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EJM.dsLaporan.dtLap_PembelianSuppDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EJM.dsLaporan.dtFakt_PenjualanRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EJM.dsLaporan.dtLap_PenjualanRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EJM.dsLaporan.dtLap_PenjualanCustRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EJM.dsLaporan.dtLap_PenjualanProdRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EJM.dsLaporan.dtLap_BarangRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EJM.dsLaporan.dtLap_CustomerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EJM.dsLaporan.dtLap_SupplierRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EJM.dsLaporan.dtLap_PelunasanHutangRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EJM.dsLaporan.dtLap_ReturPembelianRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EJM.dsLaporan.dtLap_PembelianRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EJM.dsLaporan.dtLap_PembelianProdRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EJM.dsLaporan.dtLap_PembelianSuppRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EJM.dsLaporan.dtFakt_PenjualanRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EJM.dsLaporan.dtLap_PenjualanRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EJM.dsLaporan.dtLap_PenjualanCustRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EJM.dsLaporan.dtLap_PenjualanProdRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EJM.dsLaporan.dtLap_BarangRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EJM.dsLaporan.dtLap_CustomerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EJM.dsLaporan.dtLap_SupplierRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EJM.dsLaporan.dtLap_PelunasanHutangRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EJM.dsLaporan.dtLap_ReturPembelianRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EJM.dsLaporan.dtLap_PembelianRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EJM.dsLaporan.dtLap_PembelianProdRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EJM.dsLaporan.dtLap_PembelianSuppRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EJM.dsLaporan">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+</members>
+</doc>

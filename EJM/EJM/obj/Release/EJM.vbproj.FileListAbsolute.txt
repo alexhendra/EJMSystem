@@ -1,0 +1,56 @@
+E:\Alex Panjaitan\Boy\EJM\EJM_03072016\EJM\EJM\EJM\obj\Release\EJM.frmFindPembelianAll.resources
+E:\Alex Panjaitan\Boy\EJM\EJM_03072016\EJM\EJM\EJM\obj\Release\EJM.frmFindDataRetur.resources
+E:\Alex Panjaitan\Boy\EJM\EJM_03072016\EJM\EJM\EJM\obj\Release\EJM.frmFindPenerimaanBarang.resources
+E:\Alex Panjaitan\Boy\EJM\EJM_03072016\EJM\EJM\EJM\obj\Release\EJM.frmFindDataPembelian.resources
+E:\Alex Panjaitan\Boy\EJM\EJM_03072016\EJM\EJM\EJM\obj\Release\EJM.frmFindDataPesanan.resources
+E:\Alex Panjaitan\Boy\EJM\EJM_03072016\EJM\EJM\EJM\obj\Release\EJM.frmPembelian.resources
+E:\Alex Panjaitan\Boy\EJM\EJM_03072016\EJM\EJM\EJM\obj\Release\EJM.frmPenerimaan.resources
+E:\Alex Panjaitan\Boy\EJM\EJM_03072016\EJM\EJM\EJM\obj\Release\EJM.frmReturPembelian.resources
+E:\Alex Panjaitan\Boy\EJM\EJM_03072016\EJM\EJM\EJM\obj\Release\EJM.frmFindBarang.resources
+E:\Alex Panjaitan\Boy\EJM\EJM_03072016\EJM\EJM\EJM\obj\Release\EJM.frmFindSupplier.resources
+E:\Alex Panjaitan\Boy\EJM\EJM_03072016\EJM\EJM\EJM\obj\Release\EJM.frmChangePass.resources
+E:\Alex Panjaitan\Boy\EJM\EJM_03072016\EJM\EJM\EJM\obj\Release\EJM.frmLogin.resources
+E:\Alex Panjaitan\Boy\EJM\EJM_03072016\EJM\EJM\EJM\obj\Release\EJM.frmUserMaintain.resources
+E:\Alex Panjaitan\Boy\EJM\EJM_03072016\EJM\EJM\EJM\obj\Release\EJM.frmBarang.resources
+E:\Alex Panjaitan\Boy\EJM\EJM_03072016\EJM\EJM\EJM\obj\Release\EJM.frmPesananPembelian.resources
+E:\Alex Panjaitan\Boy\EJM\EJM_03072016\EJM\EJM\EJM\obj\Release\EJM.frmSupplier.resources
+E:\Alex Panjaitan\Boy\EJM\EJM_03072016\EJM\EJM\EJM\obj\Release\EJM.frmCustomer.resources
+E:\Alex Panjaitan\Boy\EJM\EJM_03072016\EJM\EJM\EJM\obj\Release\EJM.frmMain.resources
+E:\Alex Panjaitan\Boy\EJM\EJM_03072016\EJM\EJM\EJM\obj\Release\EJM.frmReport1.resources
+E:\Alex Panjaitan\Boy\EJM\EJM_03072016\EJM\EJM\EJM\obj\Release\EJM.Resources.resources
+E:\Alex Panjaitan\Boy\EJM\EJM_03072016\EJM\EJM\EJM\obj\Release\EJM.vbproj.GenerateResource.Cache
+E:\Alex Panjaitan\Boy\EJM\EJM_03072016\EJM\EJM\EJM\bin\Release\EJM.exe.config
+E:\Alex Panjaitan\Boy\EJM\EJM_03072016\EJM\EJM\EJM\obj\Release\EJM.vbprojFakesResolveAssemblyReference.cache
+D:\Backup Alex\Alex Panjaitan\Boy\EJM_20072016\EJM\EJM\obj\Release\EJM.frmClosing.resources
+D:\Backup Alex\Alex Panjaitan\Boy\EJM_20072016\EJM\EJM\obj\Release\EJM.frmFindBarangStok.resources
+D:\Backup Alex\Alex Panjaitan\Boy\EJM_20072016\EJM\EJM\obj\Release\EJM.frmFindCustomer.resources
+D:\Backup Alex\Alex Panjaitan\Boy\EJM_20072016\EJM\EJM\obj\Release\EJM.frmFindSupplierHutang.resources
+D:\Backup Alex\Alex Panjaitan\Boy\EJM_20072016\EJM\EJM\obj\Release\EJM.frmFindHutang.resources
+D:\Backup Alex\Alex Panjaitan\Boy\EJM_20072016\EJM\EJM\obj\Release\EJM.frmFindPembelianAll.resources
+D:\Backup Alex\Alex Panjaitan\Boy\EJM_20072016\EJM\EJM\obj\Release\EJM.frmFindDataRetur.resources
+D:\Backup Alex\Alex Panjaitan\Boy\EJM_20072016\EJM\EJM\obj\Release\EJM.frmFindPenerimaanBarang.resources
+D:\Backup Alex\Alex Panjaitan\Boy\EJM_20072016\EJM\EJM\obj\Release\EJM.frmFindDataPembelian.resources
+D:\Backup Alex\Alex Panjaitan\Boy\EJM_20072016\EJM\EJM\obj\Release\EJM.frmFindDataHutang.resources
+D:\Backup Alex\Alex Panjaitan\Boy\EJM_20072016\EJM\EJM\obj\Release\EJM.frmPelunasanHutang.resources
+D:\Backup Alex\Alex Panjaitan\Boy\EJM_20072016\EJM\EJM\obj\Release\EJM.frmPembelian.resources
+D:\Backup Alex\Alex Panjaitan\Boy\EJM_20072016\EJM\EJM\obj\Release\EJM.frmPenerimaan.resources
+D:\Backup Alex\Alex Panjaitan\Boy\EJM_20072016\EJM\EJM\obj\Release\EJM.frmPenjualan.resources
+D:\Backup Alex\Alex Panjaitan\Boy\EJM_20072016\EJM\EJM\obj\Release\EJM.frmReturPembelian.resources
+D:\Backup Alex\Alex Panjaitan\Boy\EJM_20072016\EJM\EJM\obj\Release\EJM.frmFindBarang.resources
+D:\Backup Alex\Alex Panjaitan\Boy\EJM_20072016\EJM\EJM\obj\Release\EJM.frmFindSupplier.resources
+D:\Backup Alex\Alex Panjaitan\Boy\EJM_20072016\EJM\EJM\obj\Release\EJM.frmChangePass.resources
+D:\Backup Alex\Alex Panjaitan\Boy\EJM_20072016\EJM\EJM\obj\Release\EJM.frmLogin.resources
+D:\Backup Alex\Alex Panjaitan\Boy\EJM_20072016\EJM\EJM\obj\Release\EJM.frmUserMaintain.resources
+D:\Backup Alex\Alex Panjaitan\Boy\EJM_20072016\EJM\EJM\obj\Release\EJM.frmBarang.resources
+D:\Backup Alex\Alex Panjaitan\Boy\EJM_20072016\EJM\EJM\obj\Release\EJM.frmPesananPembelian.resources
+D:\Backup Alex\Alex Panjaitan\Boy\EJM_20072016\EJM\EJM\obj\Release\EJM.frmSupplier.resources
+D:\Backup Alex\Alex Panjaitan\Boy\EJM_20072016\EJM\EJM\obj\Release\EJM.frmCustomer.resources
+D:\Backup Alex\Alex Panjaitan\Boy\EJM_20072016\EJM\EJM\obj\Release\EJM.frmMain.resources
+D:\Backup Alex\Alex Panjaitan\Boy\EJM_20072016\EJM\EJM\obj\Release\EJM.frmRptPenjualan.resources
+D:\Backup Alex\Alex Panjaitan\Boy\EJM_20072016\EJM\EJM\obj\Release\EJM.frmRptRetur.resources
+D:\Backup Alex\Alex Panjaitan\Boy\EJM_20072016\EJM\EJM\obj\Release\EJM.frmRptCustomer.resources
+D:\Backup Alex\Alex Panjaitan\Boy\EJM_20072016\EJM\EJM\obj\Release\EJM.frmRptBarang.resources
+D:\Backup Alex\Alex Panjaitan\Boy\EJM_20072016\EJM\EJM\obj\Release\EJM.frmRptPembelian.resources
+D:\Backup Alex\Alex Panjaitan\Boy\EJM_20072016\EJM\EJM\obj\Release\EJM.frmRptSupplier.resources
+D:\Backup Alex\Alex Panjaitan\Boy\EJM_20072016\EJM\EJM\obj\Release\EJM.Resources.resources
+D:\Backup Alex\Alex Panjaitan\Boy\EJM_20072016\EJM\EJM\obj\Release\EJM.vbproj.GenerateResource.Cache
